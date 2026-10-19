@@ -1,0 +1,4 @@
+# 7. Másodlagos üres, de elsődlegesben még van
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

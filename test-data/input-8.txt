@@ -1,0 +1,4 @@
+# 8. Másodlagos üres, visszavált elsődlegesre, de már az is üres
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
