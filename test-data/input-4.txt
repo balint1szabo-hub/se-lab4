@@ -1,0 +1,3 @@
+# 4. teszteset: Hiba (failure) lövés közben (100% hibaarány az elsődlegesen)
+GT4500,10,1,10,0
+TORPEDO,SINGLE
