@@ -1,0 +1,3 @@
+# 9. ALL lövés, de az elsődleges üres
+GT4500,0,0,10,0
+TORPEDO,ALL
